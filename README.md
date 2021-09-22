@@ -1,2 +1,2 @@
-Production Deployment link: https://landing-pagge-n3ke4c0ag-baneprojects.vercel.app/
+Production Deployment link: https://landing-page-lq3je214b-baneprojects.vercel.app/
 
