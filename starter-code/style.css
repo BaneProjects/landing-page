@@ -432,6 +432,7 @@ footer {
       linear-gradient(#4d96a9, #4d96a9);
     background-blend-mode: overlay;
     background-size: cover;
+    background-position: top;
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
